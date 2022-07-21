@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/err_or_man" target="blank"><img src="https://img.shields.io/twitter/follow/err_or_man?logo=twitter&style=for-the-badge" alt="err_or_man" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Web development**
 
