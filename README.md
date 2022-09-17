@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **amobi_jonathan@yahoo.com**
+- 📫 How to reach me **jonathancodes2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
