@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on improving my skillsets  
   
 
-- 🌱 I’m currently learning Databases   
+- 🌱 I’m currently learning GO
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies
